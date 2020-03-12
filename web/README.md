@@ -1,4 +1,4 @@
-# Gridsome Blog Starter
+# Jatto's Blog
 
 > A simple, hackable & minimalistic starter for Gridsome that uses Sanity for content.
 

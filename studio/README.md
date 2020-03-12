@@ -1,1 +1,1 @@
-# jatto-sanity-gridsome-blog-studio
+# Jatto Sanity Gridsome Blog Studio
