@@ -1,6 +1,6 @@
-# Blog with Gridsome
+# Jatto's Blog
 
-_Fully customizable blog template with a Vue.js front-end._
+_My Fully customizable blog built with a Vue.js front-end  on Gridsome, Sanity and Deployed with Netlify._
 
 Deployed from [sanity.io/create](https://www.sanity.io/create/?template=sanity-io%2Fsanity-template-gridsome-blog).
 
